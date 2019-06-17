@@ -6,7 +6,7 @@
 	<style type="text/css">
 		
 		body{
-			background-image: url('D:/EL-RAHMA/LUTFI/white.jpg');
+			background-color: 'lightblue';
 		}
 		.topnav{
 			overflow: hidden;
